@@ -28,6 +28,7 @@ Problem → Algorithm → Pseudocode → Python Code
 
 ## 📂 Repository Organization
 
+```text
 Python-Course-Projects/
 │
 ├── Module-01/
@@ -49,6 +50,7 @@ Python-Course-Projects/
 │   └── Mini-Project-02/
 │
 └── README.md
+```
 
 The structure above represents the planned organization. Lecture exercises and projects will be added progressively.
 
