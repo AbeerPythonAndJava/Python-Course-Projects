@@ -50,8 +50,10 @@ Before writing your Python code:
 
 ---
 
-Instructor: Abeer Eissa
+## 👩‍🏫 Instructor
 
-Course: Python Programming
+**Abeer Eissa**  
+Computer Science Educator | Python Programming Trainer
 
-Level: Beginner
+**Course:** Python Programming  
+**Level:** Beginner
