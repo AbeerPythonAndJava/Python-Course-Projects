@@ -45,8 +45,10 @@ Before writing your Python program:
 
 ---
 
- Instructor: Abeer Eissa
- 
- Course: Python Programming
- 
- Level: Beginner
+ ## 👩‍🏫 Instructor
+
+**Abeer Eissa**  
+Computer Science Educator | Python Programming Trainer
+
+**Course:** Python Programming  
+**Level:** Beginner
