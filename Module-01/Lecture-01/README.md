@@ -1,5 +1,6 @@
 ## 🐍 Lecture 01 — Introduction to Python
 
+
 ## 🎯 Learning Objectives
 
 By the end of this lecture, students will be able to:
@@ -49,6 +50,8 @@ Before writing your Python code:
 
 ---
 
-## Instructor: Abeer Eissa
+Instructor: Abeer Eissa
+
 Course: Python Programming
+
 Level: Beginner
